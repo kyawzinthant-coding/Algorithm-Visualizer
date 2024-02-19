@@ -1,0 +1,23 @@
+.array-subContainer{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.a-style{
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30px;
+    justify-content: start;
+}
+
+.flex-item {
+    background: #e43f5a;
+    border: 1pt solid black;
+    width: 30px;
+    text-align: center;
+    transition: 0.1s all ease;
+}
